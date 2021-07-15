@@ -9,14 +9,6 @@
 #include<time.h>
 #include<queue>
 
-/*
-Assigned by :
-Roi Shriki 316533595
-Shilo Sharabi 316580026
-Itay Itzhak 203576749
-*/
-
-
 using namespace std;
 
 #define V 1000
